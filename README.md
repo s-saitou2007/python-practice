@@ -1,4 +1,4 @@
-# python-practice
+
 # Python学習記録
 
 未経験からWebバックエンドエンジニアを目指す学習記録です。
