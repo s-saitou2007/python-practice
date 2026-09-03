@@ -9,3 +9,13 @@
 
 ## 学習ログ
 - 2026/08/27 GitHubアカウントを作成
+2026/9/3 progete
+  ##変数
+  name="john"
+  #変数は”で囲う
+  user_name
+  #単語で分ける
+  length=5
+  area=lenght*linght
+  print("area")
+  #変数を使うことで同じデータを繰り返し使える
