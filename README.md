@@ -19,3 +19,20 @@
   area=lenght*linght
   print("area")
   #変数を使うことで同じデータを繰り返し使える
+  x=5
+  print(X)
+  x=x+3
+  print(x)
+  print("Hello"+Python")
+  name="john"
+  prnt("My name is "+name)
+  print(5+7)
+  print("5"+"7")
+  price=100
+  print('りんごの価格は"+str(price)+"円です")##strは数値型を文字列型に変換するときにstrを使う。出力するときに数値型と文字列型は併用できない
+count="3"
+price=100
+total_price=price*int(count)
+print(total_price) 
+  
+  
